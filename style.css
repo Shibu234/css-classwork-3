@@ -1,0 +1,157 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.main{
+    border: 2px solid black;
+    margin: 10px auto;
+    width: 25%;
+    box-sizing: border-box;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.div1 span{
+    display: inline-block;
+    width: 49.1%;
+
+    
+
+}
+.div1 span:last-child{
+    text-align: right;
+}
+.devider{
+    height: 10px;
+    background-color: black;
+    margin: 0 0 5px 0;
+}
+.div2 span{
+    display: inline-block;
+    width: 49%;
+}
+.div2 span:last-child{
+    text-align: right;
+}
+.h2{
+    height: 6px;
+    background-color: black;
+}
+
+.div3 span{
+    width: 50%;
+    display: inline-block;
+}
+.div3 span:last-child{
+    text-align: right;
+}
+.div4 span{
+    display: inline-block;
+    width: 49%;
+    
+    
+}
+.div4 span:last-child{
+    text-align: right;
+}
+.div5{
+    display: inline-block;
+    width: 49%;
+    text-indent: 12px;
+
+}
+.div6 span{
+    display: inline-block;
+    width: 49%;
+    font-weight: bold;
+}
+.div6 span:last-child{
+    text-align: right;
+}
+.div7 span{
+    display: inline-block;
+    width: 49%;
+}
+.div7 span:last-child{
+    text-align: right;
+}
+.div8 span{
+    display: inline-block;
+    width: 49%;
+}
+.div8 span:last-child{
+    text-align: right;
+}
+.div9 span{
+    display: inline-block;
+    width: 49%;
+    text-indent: 12px;
+
+}
+.div10{
+    display: inline-block;
+    width: 49%;
+    text-indent: 12px;
+}
+.div11 span{
+    display: inline-block;
+    text-indent: 133px;
+
+}
+.div11 span:first-child{
+    display: inline-block;
+    text-indent: 16px;
+
+
+}
+.div12 span{
+    display: inline-block;
+    width: 49%;
+}
+.div12 span:last-child{
+    text-align: right;
+}
+.devider{
+    height: 10px;
+    background-color: black;
+    margin: 0 0 5px 0;
+}
+.div13 span{
+    display: inline-block;
+    width: 49.5%;
+
+}
+.div13 span:last-child{
+    text-align: right;
+}
+.div14 span{
+    display: inline-block;
+    width: 49.5%;
+
+}
+.div14 span:last-child{
+    text-align: right;
+}
+.div15 span{
+    display: inline-block;
+    width: 49.5%;
+
+}
+.div15 span:last-child{
+    text-align: right;
+}
+.div16 span{
+    display: inline-block;
+    width: 49.5%;
+
+}
+.div16 span:last-child{
+    text-align: right;
+}
+li{
+    text-align: center;
+}
